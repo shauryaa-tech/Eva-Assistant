@@ -2,7 +2,7 @@
 
 ![Eva Preview](./preview.png)
 
-![Eva Preview](./preview.png)
+![Eva Preview](./assets/logo.pngg)
 
 Eva is a modern AI-powered virtual assistant designed to interact intelligently with users, respond to queries, and provide seamless assistance. Built with React, Vite, and Tailwind CSS, Eva offers a beautiful and responsive interface.
 
